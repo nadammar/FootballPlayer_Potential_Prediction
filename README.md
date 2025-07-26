@@ -64,7 +64,6 @@ The model analyzes multiple datasets to assess players' performance and predict 
 
 * Predicted potential scores for players based on their metrics
 * Comparison of actual vs predicted results
-* Feature importance analysis and visualization
 
 ## 🚀 Possible Improvements
 
