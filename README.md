@@ -52,7 +52,7 @@ The model analyzes multiple datasets to assess players' performance and predict 
 1. **Clone the project**
 
    ```bash
-   git clone https://github.com/your-username/FootballPlayer-Potential_Prediction.git
+   git clone https://github.com/nadammar/FootballPlayer-Potential_Prediction.git
    cd FootballPlayer-Potential_Prediction
    ```
 
@@ -73,4 +73,4 @@ The model analyzes multiple datasets to assess players' performance and predict 
 
 ## 👨‍💻 Author
 
-Project developed by **Nada Ammar** in collaboration with the football coach of her team.
+Project developed by **Nada Ammar** in collaboration with the football coach of my team.
